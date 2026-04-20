@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "updated": "2026-04-20T21:30:00Z",
+  "packages": {
+    "deep-organizer": {
+      "type": "agent",
+      "latest": "1.0",
+      "versions": {
+        "1.0": {
+          "author": "spladc",
+          "description": "deep information organizing and structured analysis",
+          "published": "2026-04-20T21:30:00Z"
+        }
+      }
+    },
+    "report-generator": {
+      "type": "agent",
+      "latest": "1.0",
+      "versions": {
+        "1.0": {
+          "author": "spladc",
+          "description": "structured report generation with multi-format output",
+          "published": "2026-04-20T21:30:00Z"
+        }
+      }
+    },
+    "literary-works-collector": {
+      "type": "agent",
+      "latest": "1.0",
+      "versions": {
+        "1.0": {
+          "author": "spladc",
+          "description": "comprehensive literary works information collection",
+          "published": "2026-04-20T21:30:00Z"
+        }
+      }
+    }
+  }
+}
